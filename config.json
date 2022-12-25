@@ -1,0 +1,9 @@
+{
+  "twilio-sid": "",
+  "twilio-auth": "",
+  "twilio-from-number": "",
+  "twilio-to-number": "",
+  "reminder-hour": 13,
+  "port": 9999,
+  "sheet-path": "./meds.xlsx"
+}
